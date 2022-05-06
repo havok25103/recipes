@@ -53,7 +53,8 @@ This should be a refreshing, bright, IPA.
 
 **Taste**
 
-- TBD
+- Honey
+- Citrus, Peach, Guava
 
 ### Errors
 
@@ -71,3 +72,5 @@ This should be a refreshing, bright, IPA.
 
 - Increase water usage to 2.25 gallons to account for excess boil off
 - Shift malt percentage in favor of 2-row malt ( 2.5lbs, .5lbs ) or about 17% honey malt to 83% 2-row malt. 2-row has a lower lovibond score and should lighten the beer significantly, while also reducing sweetness.
+
+## V2: Brew Date ( 5-8-2022 )
